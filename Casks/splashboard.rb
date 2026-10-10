@@ -1,8 +1,8 @@
 # Rendered by packaging/scripts/render-cask.sh. Do not edit the
 # rendered file in the tap: the release workflow replaces it on every release.
 cask "splashboard" do
-  version "0.2.2"
-  sha256 "1148e764e987203ce3e96371ce971fa987da6d78578ea8b913f9d4d8e35acbd6"
+  version "0.2.3"
+  sha256 "0c1f2c58dbfe2dacc81b25aafd57360599cc24fed4fc0606cd21504d5a6d5086"
 
   url "https://github.com/arnavprabhu/splashboard/releases/download/v#{version}/Splashboard-#{version}.dmg"
   name "Splashboard"
