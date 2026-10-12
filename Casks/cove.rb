@@ -1,8 +1,8 @@
 # Rendered by scripts/package.sh --cask in arnavprabhu/cove. Do not edit the
 # rendered file in the tap: re-render it from the release zip instead.
 cask "cove" do
-  version "0.1.0"
-  sha256 "8123ed12205c37a16b91c7b80b06418b631c91521cee917e483dcc7520e590ff"
+  version "0.1.1"
+  sha256 "7d00e35767fa574202927228e35b876f8c51130ac76f92098c0e9f7df437afdd"
 
   url "https://github.com/arnavprabhu/cove/releases/download/v#{version}/Cove-#{version}.zip"
   name "Cove"
