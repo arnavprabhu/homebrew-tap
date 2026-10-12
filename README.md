@@ -1,2 +1,2 @@
 # homebrew-tap
-Homebrew tap for Splashboard
+Homebrew tap
