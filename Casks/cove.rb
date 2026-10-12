@@ -2,7 +2,7 @@
 # rendered file in the tap: re-render it from the release zip instead.
 cask "cove" do
   version "0.1.0"
-  sha256 "9b3761862b32f6a1d1a04834b81f51d45e498a2e017b6228d858aff912ef0c3c"
+  sha256 "8123ed12205c37a16b91c7b80b06418b631c91521cee917e483dcc7520e590ff"
 
   url "https://github.com/arnavprabhu/cove/releases/download/v#{version}/Cove-#{version}.zip"
   name "Cove"
